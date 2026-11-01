@@ -1,0 +1,15 @@
+# Dependencies & OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Binaries & Tunnels
+cloudflared.exe
+*.exe
+
+# Prior project archive
+mini-crm/
+
+# Test artifacts
+*.png
+*.py
